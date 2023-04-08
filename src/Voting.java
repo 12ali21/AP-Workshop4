@@ -70,24 +70,6 @@ public class Voting {
     }
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
     public int getType() {
         return type;
     }
